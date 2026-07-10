@@ -1,0 +1,6 @@
+{
+  "name": "College Attendance Tracker",
+  "description": "Track college student attendance for 10-1 PM and 2-5 PM lectures across 7 subjects with daily reports and student analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
